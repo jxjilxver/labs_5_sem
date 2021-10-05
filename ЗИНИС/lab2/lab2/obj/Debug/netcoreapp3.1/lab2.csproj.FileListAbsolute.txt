@@ -1,0 +1,13 @@
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+D:\лабы\5-й сем\ЗИНИС\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
